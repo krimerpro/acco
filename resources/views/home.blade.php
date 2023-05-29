@@ -34,7 +34,7 @@
   <div class="elementor-element elementor-element-17293ec elementor-widget__width-auto elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button" data-id="17293ec" data-element_type="widget" data-widget_type="button.default">
   <div class="elementor-widget-container">
     <div class="elementor-button-wrapper">
-<a href="https://pancakeswap.finance/swap?outputCurrency=0x9d8bFd403315E8e8DE89d911B7Daa3ACE4DAF921" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+<a href="https://pancakeswap.finance/swap?outputCurrency=0x" class="elementor-button-link elementor-button elementor-size-sm" role="button">
       <span class="elementor-button-content-wrapper">
       <span class="elementor-button-text">BUY $ACCO</span>
 </span>
@@ -46,7 +46,7 @@
   <div class="elementor-element elementor-element-17293ec elementor-widget__width-auto elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button" data-id="17293ec" data-element_type="widget" data-widget_type="button.default">
   <div class="elementor-widget-container">
     <div class="elementor-button-wrapper">
-<a href="https://poocoin.app/tokens/0x9d8bFd403315E8e8DE89d911B7Daa3ACE4DAF921" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+<a href="https://poocoin.app/tokens/0x" class="elementor-button-link elementor-button elementor-size-sm" role="button">
       <span class="elementor-button-content-wrapper">
       <span class="elementor-button-text">CHART</span>
 </span>
